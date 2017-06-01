@@ -1,7 +1,7 @@
 <?php
 
 
-//testing
+//test
 echo "hai";
 
 
