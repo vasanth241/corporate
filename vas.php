@@ -1,9 +1,7 @@
 <?php
 
-
-//test
-//hai
-echo "hai";
+   
+   header("location: msg.php")
 
 
 
